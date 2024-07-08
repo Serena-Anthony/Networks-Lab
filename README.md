@@ -13,4 +13,5 @@ lab5: Using TCP concurrent , client will give a file name, server will receive i
 lab6: Creation of peer to peer chat app without server
 
 hands-on lab1 : Crimping Ethernet Cable head   
-hands-on lab2 : Learn about Fiber Optic Splicing
+hands-on lab2 : Learn about Fiber Optic Splicing  
+hands-on lab3 : Used Cisco Packet Tracer to create a VLAN configuration and practically designing a subnet
