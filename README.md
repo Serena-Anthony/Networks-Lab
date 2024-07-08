@@ -1,3 +1,5 @@
+## Network Lab 
+
 lab1: Client server connection established and server prints the date n time after that
 
 lab2: Client enters a currency and an amount, the server converts the currency to indian rupees and return the equivalent indian rupees
