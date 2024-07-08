@@ -11,3 +11,6 @@ lab4: Made concurrent udp server for base station which calculates avg of temper
 lab5: Using TCP concurrent , client will give a file name, server will receive it and open the file. read and send the data line by line to the client and client will write it down in its own file
 
 lab6: Creation of peer to peer chat app without server
+
+hands-on lab1 : Crimping Ethernet Cable head 
+hands-on lab2 : Learn about Fiber Optic Splicing
